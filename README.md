@@ -9,7 +9,7 @@ What I found interesting was the distance between the light and the dark spots i
 
 
 
-## 3D visualization of the intensity changes in WiFi signal:
+## 3D visualization of the intensity changes in a WiFi signal:
 ![PCB Photo](/docu/animation.gif)
 ## One slice of the scan:
 ![PCB raw B](/docu/wifi_map.jpeg)
